@@ -82,6 +82,11 @@ Measurements
 - Scientific mesaurement ? 
 - Subjective ? 
 
+
+A scientific measurement is a way of obtaining values which does not depend on who is making the measurement
+Objective is exact data
+
+
 Measurements
 Distributions - how often they fall within a given range (binning). By separating ranges into smaller ranges(bins), shows how values vary
 
