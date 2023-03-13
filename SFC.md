@@ -53,7 +53,7 @@ Six Hats Overview
 
 ```
 1. Blue Hat (First or Last), mostly goals
-2. White Hat (Facts and data)
+2. White Hat (Facts and Data)
 3. Green Hat (Creative Ideas)
 4. Yellow Hat (only benefits and values from green hat's ideas)
 5. Red Hat (only emotional)
