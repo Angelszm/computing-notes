@@ -247,6 +247,9 @@ In-text reference style
 (Author, Date: Page Number)
 Eg., (Swe, 2021: 8) 
 
+Name, Initial (Year). Title of work. Location of publisher, name of publisher.
+- Myint, S (2030). Br title. Singapore, SPH_Media
+
 Reference list style
 Name, Initial (Year). Title of work. Location of publisher, name of publisher.
 
