@@ -272,6 +272,12 @@ Example: Playing chess helps develop problem solving skills.
 
 Topic 4: Presentation and Writing
 
+Presenatation 
+- Prepare, Practice, Present
+
+Writing
+- 
+
 
 Reading : 
 - Speed read and why you would read more carefully.
