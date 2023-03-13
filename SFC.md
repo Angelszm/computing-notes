@@ -234,6 +234,7 @@ Topic 3 >>> Referencing  (Pyan kyi yan)
 ```
 Reference List : is a list of all the sources used in a paper, eassy or assignment. 
 NCC Education use - Harvard Style
+:give credit to the original author or source of the information, which is important for avoiding plagiarism and maintaining ethical standards in academic
 
 Reference List by ordered alphabetically by author's surname.
 - Author's Surname
