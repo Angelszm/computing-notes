@@ -22,7 +22,7 @@ TASC Introuction
 
 TASC Wheel with Phases  (GIGD,IECL)
 1. Gather/Organise (Tools: Brainstroming, MindMap) (Knowledge, Information, Resources)
-2. Identity (Tools: Task, Problem, Success Criteria) (Problem Scope and Parameter)
+2. Identity (Tools: Analysis , Task, Problem, Success Criteria) (Problem Scope and Parameter)
 3. Generate (Tools: Brainstroming, Blue Sky Thinking, Lateral Thinking, Metaphors) (Solutions: Possible, Impossible)
 4. Decide (Tools: Critical Thinking) (Decide, non-viable: eg time constraints, financial, hr resources)
 5. Implement 
