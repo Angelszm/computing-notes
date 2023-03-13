@@ -266,6 +266,7 @@ Example: courses, seminars, conferences, reading journal articles,
 Lifelong Learning
 ```
 It's the idea that learning does not happen only in your youth as preparation for a carerr, but should continue throughout your life with varying levels of formality. 
+- To continually improve one's self/knowledge
 Example: Playing chess helps develop problem solving skills.  
 ```
 
