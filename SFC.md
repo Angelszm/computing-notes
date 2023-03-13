@@ -41,7 +41,7 @@ Phases
 
 
 Six Hats Overview 
-- Argument vs Parallel Thinking (individual or sequential)
+- Argument vs Parallel Thinking (individual or sequential) (In serial : one by one)
 ```
 - White - Objective (Left Brain)
 - Red   - Emotional (Right)
