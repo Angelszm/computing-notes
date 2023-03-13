@@ -42,6 +42,12 @@ Phases
 
 Six Hats Overview 
 - Ways : Serial and Parallel
+```
+- Serial
+    :the idea is subjected to the viewpoint of each hat in turn 
+- Parallel 
+    :each member of the groups wears one hat and engages in the discussion using only that viewpoint. 
+```
 - Argument vs Parallel Thinking (individual or sequential) (In serial : one by one)
 ```
 - White - Objective (Left Brain)
