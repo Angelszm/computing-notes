@@ -41,6 +41,7 @@ Phases
 
 
 Six Hats Overview 
+- Ways : Serial and Parallel
 - Argument vs Parallel Thinking (individual or sequential) (In serial : one by one)
 ```
 - White - Objective (Left Brain)
