@@ -128,7 +128,7 @@ Sources of error
 
 
 Standard Error
-- mean ± standard error (spread)
+- mean ± standard error (spread) : either side of mean
 - probability of about 70% close to estimated mean (one standard error)
 - probability of about 95% close to estimated mean (two standard error) (*2 multiplied by 2)
 - Representative means close to percentage 70%
