@@ -11,8 +11,8 @@ Topic - 6
 - Mind-Map
 
 Whole Brain Thinking
-Left Brain - Logical, critical (Steps by steps, calculation)
-Right Brain - Intuitive, Creative (Blue Sky Thinking) and sometimes emotional
+- Left Brain - Logical, Critical (Steps by steps, calculation) (White, Black Hats)
+- Right Brain - Intuitive, Creative (Blue Sky Thinking) and sometimes emotional (Yellow, Green, Red hats)
 
 TASC Introuction
 - Thinking
@@ -20,15 +20,15 @@ TASC Introuction
 - Social 
 - Context
 
-TASC Wheel with Phases 
-1. Gather/Organise (Brainstroming, MindMap) 
-2. Identity (Task, Problem, Success Criteria )
-3. Generate (Brainstroming, Blue Sky Thinking, Lateral Thinking, Metaphors)
-4. Decide (Critical Thinking)
+TASC Wheel with Phases  (GIGD,IECL)
+1. Gather/Organise (Tools: Brainstroming, MindMap) (Knowledge, Information, Resources)
+2. Identity (Tools: Task, Problem, Success Criteria) (Problem Scope and Parameter)
+3. Generate (Tools: Brainstroming, Blue Sky Thinking, Lateral Thinking, Metaphors) (Solutions: Possible, Impossible)
+4. Decide (Tools: Critical Thinking) (Decide, non-viable: eg time constraints, financial, hr resources)
 5. Implement 
-6. Evaluate (Evaluation against success criteria Critical Thinking)
-7. Communicate (Presentation , Report)
-8. Learn from experience (Self Reflection)
+6. Evaluate (Tools: Evaluation against success criteria Critical Thinking) (Minimum Level of Performance)
+7. Communicate (Tools: Presentation , Report)
+8. Learn from experience (Tool: Self Reflection)
 
 Phases
 1. Phase 1 & 2 : information
@@ -51,6 +51,15 @@ Six Hats Overview
 - Blue   - Control and Overview 
 ```
 
+```
+1. Blue Hat (First or Last), mostly goals
+2. White Hat (Facts and data)
+3. Green Hat (Creative Ideas)
+4. Yellow Hat (only benefits and values from green hat's ideas)
+5. Red Hat (only emotional)
+6. Black Hat (Judgement based on logical reasoning)
+```
+
 White Hat: is neutral and objective; concerned with facts, figures and proof. (information gathering)
 Red Hat : allows an intuitive, emotional response, unconstrained by logic. (Emotional)
 Black Hat : is cautious, critical and careful – it looks for weaknesses in an idea.  (Judge : critical judgment)
@@ -58,12 +67,7 @@ Yellow Hat : is positive, optimistic and looks for the benefits and ‘up sides�
 Green Hat : indicates creativity and new ideas (Creative thinking)
 Blue Hat: is cool and detached, concerned with control and organisation of the thinking process. (Decision-making process)
 
-1. Blue Hat (First or Last), mostly goals
-2. White Hat (Facts and data)
-3. Green Hat (Creative Ideas)
-4. Yellow Hat (only benefits and values from green hat's ideas)
-5. Red Hat (only emotional)
-6. Black Hat (Judgement based on logical reasoning)
+
 
 
 
