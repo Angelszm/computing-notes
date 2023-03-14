@@ -90,7 +90,7 @@ Measurements
 
 
 A scientific measurement is a way of obtaining values which does not depend on who is making the measurement
-Objective is exact data
+Objective is exact data. (Objective data refers to measurable)
 
 
 Measurements
@@ -136,7 +136,7 @@ Uncertainty
 Sources of error
 - Bias - poor experimental design (initial error, only few data error)
 - Noise - changing conditions and interactions with the environment
-- Representation of values - rounding error (changing values), transfer error (faulty communication)
+- Representation of values - rounding error (changing values to fit required number of digits), transfer error (faulty communication, recorded inaccurately)
 
 
 Standard Error
@@ -232,16 +232,32 @@ Pearson Correlation
 
 Spearman Rank Correlation
 
-No Ties and then use equation. But if we dont have rank and then need to do ranking first. (Like 1,2,3)
-
-Do ranking if it’s not giving ranking data
-
-Ties (same rank in a column, same values like OK : 3 times etc) > use mean rank (3+4+5)/3
-
-Example we have same value in column and then the value for ties , will be mean rank ()
+- No Ties and then use equation. But if we dont have rank and then need to do ranking first. (Like 1,2,3)
+- Do ranking if it’s not giving ranking data
+- Ties (same rank in a column, same values like OK : 3 times etc) > use mean rank (3+4+5)/3
+- Example we have same value in column and then the value for ties , will be mean rank ()
+- Find Mean Rank first and Use Pearson Correlation (x,y,xy,x2,y2)
 
 
-Topic 3 >>> Referencing  (Pyan kyi yan)
+Simple Linear Regression  (Line of SSE Straight Line)
+- x,y, xy, x2  
+- m,c, 𝑦̂ 
+
+The Coefficient of Determination (r2)
+- x,y, 𝑦̅,𝑦̂, (𝑦̂ -𝑦̅)2, (𝑦 − 𝑦̅)2, 
+- 𝑦̅ - mean of y
+
+
+Topic 3
+
+Question 
+- Keywords (Task and Scope)
+- Essay Planning (Introduction, Describe, Compare, Contrast, Conclusion)
+- Academic Work: Writing Style (Write Fairly Short, Focus on facts, Use Paragraphs, Spell-Check, Citations/Bibiography)
+- Primary is gathered direct from the source
+- Secondary was already collected by someone else or pre-existing data
+
+ >>> Referencing 
 ```
 Reference List : is a list of all the sources used in a paper, eassy or assignment. 
 NCC Education use - Harvard Style
@@ -257,8 +273,7 @@ Reference List by ordered alphabetically by author's surname.
 
 Reference List -2
 In-text reference style
-(Author, Date: Page Number)
-Eg., (Swe, 2021: 8) 
+- (Author, Date: Page Number): Eg., (Swe, 2021: 8) 
 
 Name, Initial (Year). Title of work. Location of publisher, name of publisher.
 - Myint, S (2030). Br title. Singapore, SPH_Media
@@ -288,10 +303,14 @@ Topic 4: Presentation and Writing
 Presenatation 
 - Prepare, Practice, Present
 
-Writing
-- 
-
 
 Reading : 
 - Speed read and why you would read more carefully.
 - Detail read 
+
+```
+Speed reading is not always appropriate, so it is important to recognize when you should use that skill and when you should slow down. While effective speed reading allows you to understand what you are reading, you may need to spend more time with a piece of text to get the most meaning out of it.
+```
+
+
+
