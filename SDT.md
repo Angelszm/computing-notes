@@ -50,7 +50,7 @@ methoad signatures two functions with the same name. have different signatures i
 ```
 A program that translates assembly language code into machine language code that can be executed by a computer.
 ```
-- Interpreter 
+- Interpreter  (Byte Code)
 ```
 A program that translates high-level programming language code into machine language code on-the-fly, executing the program as it is being translated.
 ```
