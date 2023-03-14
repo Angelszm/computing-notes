@@ -18,10 +18,6 @@ To manage software complexity and to facilitate production of defect free softwa
 - Risk management
 ```
 
-Pseudocode
-- Logic 
-- Not Real Programming Code
-
 
 SDLC Models
 - Waterfall 
@@ -97,8 +93,22 @@ A type of software testing that focuses on testing the interactions and interfac
 Topic 2
 - Good Algorithm
 - good algorithm (robust:testing, complete, efficient, readable, maintainable, documented)
+```
+- Complete: Arrive at desired conclustion
+- Robust: unlikely situations and incorrect data
+- Efficient: minimun number of steps
+- Readable: people can understand
+- Maintainable: can change in future
+- Documented: instructions
+```
 
-
+Pseudocode
+```
+- Logic 
+- Not Real Programming Code 
+- logic of an algorithm 
+- can check the correctness on paper
+````
 
 Bubble Sort:  (Swap)
 ```
@@ -237,4 +247,113 @@ Classes
 ```
 - can have functions within them
 - classes are more powerful than array 
+```
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ### PseudoCode Syntax 
+
+
+- Data <name> as <type> (Data myAge as whole number)
+- Input into myAge
+- Output myAge
+
+- whole number, real number (datama), string
+
+### Example Programs
+
+
+PseudoCode Example 
+```
+data myAge as whole number
+data myNewAge as whole number
+output "Please enter your age"
+input myAge
+
+myNewAge = myAge + 1
+output "In a year you will be"
+output myNewAge
+
+```
+PseudoCode Example1
+```
+data firstNumber as whole number
+data secondNumber as whole number
+data answer as whole number
+
+output "Please enter a number"
+input firstNumber
+output "Please enter a second number"
+input secondNumber
+
+answer = firstNumebr * secondNumber
+Output "The answer is "
+output answer
+```
+
+
+Iteration - Bounded Loop -1
+```
+data counter as whole number
+data sum as whole number
+counter =1
+loop until counter is equal to 10
+    sum = sum  + counter
+    counter = counter + 1
+Next Loop  
+```
+
+
+Iteration - UnBounded Loop -1
+```
+data userInput as character
+Loop until userInput is equal to Q
+    output "Give me a letter!"
+    input userInput
+    next loop 
+output "Oh, I really don't like that letter"
+```
+
+
+Example from Old Questions
+```
+ data counter as whole number
+ loop while counter is less than sizeof(nums)
+  output nums[counter]
+  counter=counter+1
+ next loop
+End Function
+```
+
+
+```
+loop while counter1 is less than sizeof(nums)
+  loop while counter2 is less than sizeof(nums[counter1])
+      nums[counter1][counter2]=0
+    counter2 = counter2 + 1
+  next loop
+  counter1 = counter1 + 1
+next loop
+```
+
+
+```
+Function isPositive(needs p as whole number) returns Boolean
+    Data result as Boolean
+    result=false
+    if p is greater than or equal to 0 then 
+        result = true
+    endif
+    return result
+End function 
+```
+
+create a new object named Mercedes of type Vehicle
+```
+Data Mercedes as Vehicle
+Mercedes=new Vehicle ("A180", 2021, 4419, 47.9)
 ```
