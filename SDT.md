@@ -191,6 +191,7 @@ O(logn)  - logarithmic time
 
 ```
 Scale : means the shape of curve showing the number of attempts based on the size of data being operated. 
+ - the performance of the algorithm changes predictably as the size of the input data increases. 
 
 
 Bubble Sort 
