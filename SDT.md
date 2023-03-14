@@ -296,7 +296,7 @@ Classes
  
  
  Topic 11: Data Structures
- 
+ The words and symbols that make up a programming language are known as its syntax. Every computer language has its own unique syntax
  
  
  ### PseudoCode Syntax 
