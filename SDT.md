@@ -168,8 +168,8 @@ Data d as Boolean : True
 Data e as character: 'M'
 ```
 
- - Primitive Data : value data rypes (whole/real numbers)
- - Complex : reference data types 
+ - Primitive Data : value data rypes (whole/real numbers, Boolean)
+ - Complex : reference data types  (String)
 
  
 
