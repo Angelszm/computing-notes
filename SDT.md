@@ -169,12 +169,12 @@ Data e as character: 'M'
  - Making an algorithm work for large amounts of data and operations. 
  
 Iteration 
-- Bounded iteration (They know how many times for looping)
+- Bounded iteration (They know how many times to repeat)
 ```
 In bounded iteration, the number of times the loop will execute is known before the loop starts. A loop with a fixed number of iterations is an example of bounded iteration.
 - A loop that will iterate a known number of times
 ```
-- Unbounded iteration (They don't know how many times for looping)
+- Unbounded iteration (They don't know how many times to repeat)
 ```
 In unbounded iteration, the number of times the loop will execute is not known before the loop starts. A loop that continues until a certain condition is met is an example of unbounded iteration.
 - A loop taht will iterate an unknown number of times
