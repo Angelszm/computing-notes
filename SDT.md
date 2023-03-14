@@ -89,7 +89,7 @@ Integration Testing (different features/different modules for each, different fu
 A type of software testing that focuses on testing the interactions and interfaces between different modules, components, or systems within an application. Integration testing is performed after unit testing, and it is designed to verify that the individual units of code work correctly when integrated together as a larger system. Integration testing can help to identify defects or issues that may arise due to dependencies or interactions between different parts of the application, and it can ensure that the application functions as intended as a whole. Integration testing can be performed at different levels, such as module level, subsystem level, or system level, depending on the complexity of the application.
 ```
 
-Boundary Testing
+Boundary Testing ; (transition between sets of data)
 ```
 - Valid 
 - Invalid
