@@ -165,8 +165,7 @@ Data e as character: 'M'
  - Complex : reference data types 
 
  
- Scaling 
- - Making an algorithm work for large amounts of data and operations. 
+
  
 Iteration 
 - Bounded iteration (They know how many times to repeat)
@@ -192,13 +191,8 @@ Condensing Loops
 To condense loops, programmers may use features such as list comprehensions or generator expressions to express the loop in a more concise form.
 - Removing the need to step through every line of code in a large loop by identifying the pattern that lets you approximate. 
 ```
-
-Sorting Method 
-- Bubble sort
-- quick sort 
-- Linear sort
-
-
+ 
+Topic 8- Array 
 sideof (Number of not known arrays : like user enter 10 and will loop with 10, if 15 and then 15 loop)
 
 Two Dimensional Arrays
@@ -212,17 +206,29 @@ data myGrip as array (row,column) of whole numbers
     - output myGrip[9,5]
 ```
 
+ 
+Topic 9 : Searching and Sorting
+
+Linear Search 
+- best case is 1 check 
+- worst case is N checks
+- average case is N/2 checks
+ 
 Search and sort notes
 ```
 - linear (simplest kind)
-- binary  (ordered array)
+- binary  (ordered array, ascending, descending)
 - bubble sort (simplest form of sort )
-- quick sort (splits an array into sub-arrays and sorts each individually.
+- quick sort (splits an array into sub-arrays and sorts each individually, much better algorithm)
 Quick Sort is more efficient than Bubble sort. 
 
 Binary Search - need ordered array to function
 Binary Search better than linear search 
 ```
+
+Scaling 
+ - Making an algorithm work for large amounts of data and operations. 
+ 
 
 ```
 Big O Notation belongs to linear search. 
@@ -235,6 +241,12 @@ O(logn)  - logarithmic time
 ```
 Scale : means the shape of curve showing the number of attempts based on the size of data being operated. 
  - the performance of the algorithm changes predictably as the size of the input data increases. 
+
+Sorting Method 
+- Bubble sort
+- quick sort 
+- Linear sort
+
 
 
 Bubble Sort 
@@ -254,22 +266,27 @@ by spilling an array into two selections
 - recursive 
 ```
 
+Topic 10: 
 Objects and classes
 Objects
 ```
 - specific instantiation of class 
 - class data type
+- A varibale created from our data type 
 ```
 
 Classes
 ```
 - can have functions within them
 - classes are more powerful than array 
+ - A cusutom data type we create
 ```
 
+ Instantiation
+ - Creating an object from a class
  
  
- 
+ Topic 11: Data Structures
  
  
  
