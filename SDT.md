@@ -125,6 +125,16 @@ Pseudocode
 - Desk Check 
 ```
  Desk-checking is a technique used in software development to manually review code to ensure that it is correct and meets the requirements of the program. 
+ - the process of working through each line of code in an algorithm
+```
+
+Desk Checking Pseudocode (Table: Rows and Columns)
+- Rows : for each code line and instructions
+- Column: Code, Variables, Notes
+```
+- each code line
+- Variable Names,
+- Notes 
 ```
 - Commenting (only 4)
 ```
@@ -141,6 +151,8 @@ Topic 3
 Data Representation 
 - Whole Number : integer
 - Real Number: floats 
+- Boolean 
+- Single Character
 ```
 Data a as string : "Hey"
 Data b as whole number: 123
@@ -149,7 +161,13 @@ Data d as Boolean : True
 Data e as character: 'M'
 ```
 
+ - Primitive Data : value data rypes (whole/real numbers)
+ - Complex : reference data types 
 
+ 
+ Scaling 
+ - Making an algorithm work for large amounts of data and operations. 
+ 
 Iteration 
 - Bounded iteration (They know how many times for looping)
 ```
