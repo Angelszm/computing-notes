@@ -272,7 +272,8 @@ by spilling an array into two selections
 - sort each arry individually 
 - recursive 
 ```
-
+Truth Table - n: number of compounds 
+ 
 Topic 10: 
 Objects and classes
 Objects
