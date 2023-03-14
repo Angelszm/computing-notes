@@ -9,6 +9,15 @@ Slide 1 (Topic 1)
 The SDLC is necessary to ensure that software systems are developed and maintained in a structured and systematic manner, with consideration for user needs, quality, and efficiency.(to manage software complexity and to facilite production of detect free software)
 ```
 
+
+```
+To manage software complexity and to facilitate production of defect free software that conforms to user requirements.
+- Efficiency and productivity
+- Customer satisfaction
+- Risk management
+
+```
+
 SDLC Modules - 
 - Waterfall 
 - Agile
