@@ -6,28 +6,40 @@ Slide 1 (Topic 1)
 - SDLC (Planning, Requirement, Requirement Analysis, Defining Requirements, Design, Implemenation, Testing, Maintenenance)
 - SDLC (why need ?)
 ```
-The SDLC is necessary to ensure that software systems are developed and maintained in a structured and systematic manner, with consideration for user needs, quality, and efficiency.(to manage software complexity and to facilite production of detect free software)
+The SDLC is necessary to ensure that software systems are developed and maintained in a structured and systematic manner, with consideration for user needs, quality, and efficiency.
+-(to manage software complexity and to facilite production of detect free software)
 ```
 
-
+Neeeds SDLC 
 ```
 To manage software complexity and to facilitate production of defect free software that conforms to user requirements.
 - Efficiency and productivity
 - Customer satisfaction
 - Risk management
-
 ```
 
-SDLC Modules - 
+Pseudocode
+- Logic 
+- Not Real Programming Code
+
+
+SDLC Models
 - Waterfall 
+- Iterative waterfall
+- Prototyping 
 - Agile
 
 Agile
 - A flexible and iterative approach to software development that emphasizes collaboration, continuous improvement, and rapid delivery of working software.
+```
+- User Involvement
+- Iterative, Incremental
+- Flexibley, Prioritisation, Collaborative
+```
 
 - Constructor
 ```
-function is always called the same thing as the name of the cars. 
+- function is always called the same thing as the name of the class. ) 
 ```
 - Accessor Function (getter and setter)
 ```
@@ -36,7 +48,7 @@ set function
 ```
 - Method Overloading
 ```
-methoad signatures two functions with the same name. have different signatures if they have different parameter list. 
+methoad signatures two functions with the same name. have different signatures if they have different parameter list.  (Same name different parameter)
 ```
 - Assembler
 ```
@@ -57,18 +69,21 @@ High-level programming languages are designed to be easy to read and write, with
 
 Regression Testing (code changes)
 ```
-A type of software testing that verifies that changes made to a software application do not adversely affect existing functionality. Regression testing involves re-executing test cases that have already been executed in previous cycles of testing, in order to ensure that previously working features still work as intended after changes have been made.
+- Regression Testing is a type of testing that is done to verify that a code change in the software does not impact the existing functionality of the product. 
+- A type of software testing that verifies that changes made to a software application do not adversely affect existing functionality. Regression testing involves re-executing test cases that have already been executed in previous cycles of testing, in order to ensure that previously working features still work as intended after changes have been made.
 ```
 
 White-box Testing (the whole code, especially desk-checking, Testing the flow of execution through a unit using desk-check)
 ```
 A type of software testing that examines the internal workings of an application or system, including its code, data structures, and algorithms. White-box testing is typically performed by developers or quality assurance engineers with access to the application's source code, and it can help to identify defects or issues that may not be visible through other types of testing.
+- White box testing is a type of testing where the tester can see the code. The main purposes of this type of testing are to test the inner workings of the software, as well as strengthen its security, and improve its usability and design.
 ```
 
 Black-box Testing (only result: input, output, Testing the results that come from a unit)
 ```
 A type of software testing that focuses on the external behavior of an application or system, without knowledge of its internal workings. Black-box testing is typically performed by testers who do not have access to the application's source code, and it is designed to verify that the application or system meets its functional and non-functional requirements. Black-box testing can involve various techniques such as functional testing, usability testing, performance testing, and security testing.
 ```
+
 Unit Testing (function test, Testing of a single function in isolation)
 ```
 A type of software testing that focuses on verifying the smallest testable parts of an application, typically individual functions or methods. Unit testing is often performed by developers during the development process, and it is designed to ensure that each unit of code performs as intended and meets its specified requirements. Unit tests are usually automated, and they help to catch defects early in the development process, reducing the risk of introducing bugs or errors into the application.
@@ -185,7 +200,7 @@ Binary Search better than linear search
 Big O Notation belongs to linear search. 
 O(1) -constant scale (constant time complexity)
 O(N) - Linear (directly propotion size)
-O(N^2) - Bubble sort (Swap) = quadratic time
+O(N^2) - Bubble sort (Swap) = quadratic time complexity
 O(nlogn) - Quick Sort
 O(logn)  - logarithmic time
 
@@ -221,4 +236,5 @@ Objects
 Classes
 ```
 - can have functions within them
+- classes are more powerful than array 
 ```
