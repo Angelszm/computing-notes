@@ -241,9 +241,10 @@ Scaling
 Big O Notation belongs to linear search. 
 O(1) -constant scale (constant time complexity)
 O(N) - Linear (directly propotion size)
+O(logn)  - logarithmic relationship with number of search (Binary Search)
 O(N^2) - Bubble sort (Swap) = quadratic time complexity
 O(nlogn) - Quick Sort
-O(logn)  - logarithmic time
+
 
 ```
 Scale : means the shape of curve showing the number of attempts based on the size of data being operated. 
