@@ -91,10 +91,10 @@ A type of software testing that focuses on testing the interactions and interfac
 
 Boundary Testing
 ```
-Valid 
-Invalid
-Exterme
-Boundaries
+- Valid 
+- Invalid
+- Exterme
+- Boundaries
 ```
 
 Topic 2
