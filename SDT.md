@@ -31,6 +31,9 @@ Agile
 - User Involvement
 - Iterative, Incremental
 - Flexibley, Prioritisation, Collaborative
+- Delivering Working Software at Each Iteration 
+- Continuous Imporement 
+- Identifying Problems Early
 ```
 
 - Constructor
@@ -173,7 +176,6 @@ Data e as character: 'M'
 
  
 
- 
 Iteration 
 - Bounded iteration (They know how many times to repeat)
 ```
@@ -296,8 +298,32 @@ Classes
  
  
  Topic 11: Data Structures
- The words and symbols that make up a programming language are known as its syntax. Every computer language has its own unique syntax
+ - The words and symbols that make up a programming language are known as its syntax. Every computer language has its own unique syntax
  
+ 
+Queue, Stack, List
+```
+- Queue - FIFO, add to the tail of array and data remove at the head of the array
+- Stack - LIFO, data push at the top of the array and data pop at the top of the array
+- List : data add end of the array and data retrieve at any position of the array with given index value. 
+```
+ 
+ 
+Linear, Binary Search 
+```
+- Linear Search : start the first element of the array and continue one after another until reach the end of array to search require item. 
+- Binary Search: need to have ordered arry to function 
+```
+
+Benefits
+```
+Loop: we can reduce the number of line of code using bounded/unbounded loop for any size of array of whole number. 
+Functions : give use to reduce the complexity of the programs. 
+           - easier to change programs, facilitate program maintainability, reduce program size, code re-usability, easier to follow programs.
+```
+ 
+
+
  
  ### PseudoCode Syntax 
 
@@ -307,6 +333,7 @@ Classes
 - Output myAge
 
 - whole number, real number (datama), string
+
 
 ### Example Programs
 
